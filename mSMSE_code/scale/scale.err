@@ -1,0 +1,504 @@
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=110.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=117.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=120.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=119.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=134.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=133.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=132.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=135.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=136.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=131.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=146.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=148.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=144.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=145.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=147.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=141.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=127.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=143.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=142.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=140.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=149.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=126.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=129.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=128.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=125.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=138.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=139.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=151.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=150.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=130.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=137.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=162.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=163.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=165.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=157.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=160.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=121.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=161.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=155.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=173.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=164.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=170.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=167.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=174.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=171.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=154.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=156.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=166.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=158.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=168.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=172.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=159.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=152.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=153.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=169.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=122.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=176.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=180.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=179.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=188.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=177.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=187.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=123.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=186.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=193.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=196.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=124.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=189.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=190.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=192.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=191.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=195.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=194.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=185.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=184.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=183.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=175.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=178.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=199.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=200.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=181.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=182.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=198.Rdata', probable reason 'No such file or directory'
+Execution halted
+Error in gzfile(file, "wb") : cannot open the connection
+Calls: save -> gzfile
+In addition: Warning message:
+In gzfile(file, "wb") :
+  cannot open compressed file 'results//p_times_p=310_m=1000_L=50_rep=197.Rdata', probable reason 'No such file or directory'
+Execution halted
